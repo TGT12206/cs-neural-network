@@ -1,2 +1,2 @@
 # cs-neural-network
-A system for learning neural networks using backpropagation in C#
+My system for neural networks that use backpropagation, written in C#
